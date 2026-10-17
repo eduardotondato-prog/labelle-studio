@@ -1,0 +1,31 @@
+﻿servico,tamanho,preco_reais,duracao_min,comissao_pct,status_valor
+Escova,P,45,30,40,original
+Escova,M,50,30,40,original
+Escova,G,60,40,40,original
+Penteado,P,120,40,40,proposta_a_aprovar
+Penteado,M,150,50,40,proposta_a_aprovar
+Penteado,G,180,60,40,proposta_a_aprovar
+Aplicação de tinta (cliente),P,60,90,40,original
+Aplicação de tinta (cliente),M,75,100,40,proposta_a_aprovar
+Aplicação de tinta (cliente),G,90,120,40,proposta_a_aprovar
+Mechas,P,400,180,30,original
+Mechas,M,500,210,30,proposta_a_aprovar
+Mechas,G,650,240,30,proposta_a_aprovar
+Reconstrução Wella,P,120,60,30,original
+Reconstrução Wella,M,150,75,30,proposta_a_aprovar
+Reconstrução Wella,G,180,90,30,proposta_a_aprovar
+Reconstrução Truss com molecular,P,150,120,30,original
+Reconstrução Truss com molecular,M,180,120,30,proposta_a_aprovar
+Reconstrução Truss com molecular,G,220,150,30,proposta_a_aprovar
+Reconstrução Joico,P,200,120,30,original
+Reconstrução Joico,M,240,120,30,proposta_a_aprovar
+Reconstrução Joico,G,280,150,30,proposta_a_aprovar
+Botox,P,150,60,30,original
+Botox,M,200,90,30,proposta_a_aprovar
+Botox,G,250,120,30,proposta_a_aprovar
+Selagem,P,200,60,30,original
+Selagem,M,250,90,30,proposta_a_aprovar
+Selagem,G,300,120,30,proposta_a_aprovar
+Coloração,P,120,120,30,original
+Coloração,M,150,135,30,proposta_a_aprovar
+Coloração,G,190,150,30,proposta_a_aprovar
